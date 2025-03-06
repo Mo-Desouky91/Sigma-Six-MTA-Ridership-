@@ -1,5 +1,5 @@
 # Sigma-Six
-## MTA Daily Ridership Data
+## MTA Daily Ridership 
 ## Overview
 ### General Description
 The Metropolitan Transportation Authority (MTA) is a public-benefit corporation responsible for public transportation in the state of New York serving 12 counties in southeastern New York, along with two counties in southwestern Connecticut under contract to the Connecticut Department of Transportation (CDOT). The MTA is the largest transportation network in North America.
