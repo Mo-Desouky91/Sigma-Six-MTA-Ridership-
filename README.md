@@ -1,4 +1,4 @@
-# Sigma-Six-MTA-Ridership-
+# Sigma-Six
 ## MTA Daily Ridership Data
 ## Overview
 ### General Description
